@@ -14,10 +14,10 @@ If linux use `nmblookup` which shows same output as nbstat.
 `nslookup <domain>` used for simple DNS queries, mainly to resolve a domain name into its IP address. <br>
 <img width="583" height="443" alt="Screenshot 2026-05-22 182311" src="https://github.com/user-attachments/assets/5ee9d9e1-c6bb-4ccf-b4f7-0b7a0e24b99d" />
 
-`dig <domain>`<br> more advanced DNS query tool that can request specific record types
+`dig <domain>`<br> more advanced DNS query tool that can request specific record types <br>
 <img width="661" height="354" alt="Screenshot 2026-05-22 182641" src="https://github.com/user-attachments/assets/bd3a5aa8-da09-4045-b8f8-9e24337351c7" />
 
-`<dig mx <domain>`<br> MX is for Mail record
+`<dig mx <domain>`<br> "MX" is for Mail record <br>
 <img width="679" height="402" alt="Screenshot 2026-05-22 182819" src="https://github.com/user-attachments/assets/8eb9697e-9ec9-449e-ab02-f8123111f13f" />
 
 ## Challenge 4 : TTL OS Fingerprinting
